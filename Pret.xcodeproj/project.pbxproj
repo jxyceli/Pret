@@ -18,7 +18,6 @@
 		FD7AD7B82859061F00FC6F28 /* PretUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD7AD7B72859061F00FC6F28 /* PretUITests.swift */; };
 		FD7AD7BA2859061F00FC6F28 /* PretUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD7AD7B92859061F00FC6F28 /* PretUITestsLaunchTests.swift */; };
 		FDAB0697285CC7100063A207 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDAB0696285CC7100063A207 /* ViewController3.swift */; };
-		FDAB0699285CC8A70063A207 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDAB0698285CC8A70063A207 /* ViewController4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 		FD7AD7B72859061F00FC6F28 /* PretUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PretUITests.swift; sourceTree = "<group>"; };
 		FD7AD7B92859061F00FC6F28 /* PretUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PretUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		FDAB0696285CC7100063A207 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
-		FDAB0698285CC8A70063A207 /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,7 +107,6 @@
 				FD7AD7952859061900FC6F28 /* SceneDelegate.swift */,
 				FD7AD7972859061900FC6F28 /* ViewController.swift */,
 				FD7AD7992859061900FC6F28 /* Main.storyboard */,
-				FDAB0698285CC8A70063A207 /* ViewController4.swift */,
 				FD7AD79F2859061F00FC6F28 /* Assets.xcassets */,
 				FDAB0696285CC7100063A207 /* ViewController3.swift */,
 				FD7AD7A12859061F00FC6F28 /* LaunchScreen.storyboard */,
@@ -268,7 +265,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				FDAB0697285CC7100063A207 /* ViewController3.swift in Sources */,
-				FDAB0699285CC8A70063A207 /* ViewController4.swift in Sources */,
 				FD7AD79E2859061900FC6F28 /* Pret.xcdatamodeld in Sources */,
 				FD7AD7982859061900FC6F28 /* ViewController.swift in Sources */,
 				FD7AD7942859061900FC6F28 /* AppDelegate.swift in Sources */,
